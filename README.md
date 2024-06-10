@@ -10,3 +10,4 @@ avarage temperature for a week and the ability to view the detailed informATION 
 
 
 https://github.com/INDEFATIGABLITY/weather_app.git
+https://advtechonline-my.sharepoint.com/personal/st10442382_vcconnect_edu_za/Documents/Presentation%20(1).pptx?web=1
